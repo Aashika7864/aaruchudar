@@ -1,89 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.aaruchudar.com/</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://aaruchudar.com/</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/services</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://aaruchudar.com/hilabs</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/individuals</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://aaruchudar.com/blog</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/courses</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/students</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/startups</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/individuals</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/corporates</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/colleges</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/schools</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/locations</loc>
+    <lastmod>2025-05-11T10:22:24+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Duplicates with trailing slashes (Google treats both separately if not canonicalised) -->
+  <url>
+    <loc>https://aaruchudar.com/hilabs/</loc>
+    <lastmod>2025-05-11T10:22:29+01:00</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/colleges</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://aaruchudar.com/blog/</loc>
+    <lastmod>2025-05-11T10:22:32+01:00</lastmod>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/corporates</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://aaruchudar.com/blogs</loc>
+    <lastmod>2025-05-11T10:22:32+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://aaruchudar.com/courses/</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
     <priority>0.8</priority>
   </url>
 
+  <!-- Course pages -->
   <url>
-    <loc>https://www.aaruchudar.com/hilabs</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://aaruchudar.com/course-2</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/startups</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aaruchudar.com/course-3</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/professionals</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://aaruchudar.com/course-4</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/blogs</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aaruchudar.com/course-5</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/locations</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://aaruchudar.com/course-6</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Custom programs -->
+  <url>
+    <loc>https://aaruchudar.com/institutional-innovation-catalyst-45-days</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://www.aaruchudar.com/courses</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.aaruchudar.com/course1</loc>
-    <lastmod>2025-05-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://aaruchudar.com/custom-sprint-labs-retreats-2-5-days</loc>
+    <lastmod>2025-05-11T10:22:33+01:00</lastmod>
+    <priority>1.0</priority>
   </url>
 
 </urlset>
