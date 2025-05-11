@@ -24,6 +24,9 @@
     <lastmod>2025-05-11T10:22:24+01:00</lastmod>
     <priority>1.0</priority>
   </url>
+git add sitemap.xml
+git commit -m "Add sitemap.xml"
+git push
 
   <url>
     <loc>https://aaruchudar.com/students</loc>
